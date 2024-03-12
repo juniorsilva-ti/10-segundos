@@ -1,0 +1,14 @@
+C:\Users\user\10seg\bin\Debug\net8.0\10seg.exe
+C:\Users\user\10seg\bin\Debug\net8.0\10seg.deps.json
+C:\Users\user\10seg\bin\Debug\net8.0\10seg.runtimeconfig.json
+C:\Users\user\10seg\bin\Debug\net8.0\10seg.dll
+C:\Users\user\10seg\bin\Debug\net8.0\10seg.pdb
+C:\Users\user\10seg\obj\Debug\net8.0\10seg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\10seg\obj\Debug\net8.0\10seg.AssemblyInfoInputs.cache
+C:\Users\user\10seg\obj\Debug\net8.0\10seg.AssemblyInfo.cs
+C:\Users\user\10seg\obj\Debug\net8.0\10seg.csproj.CoreCompileInputs.cache
+C:\Users\user\10seg\obj\Debug\net8.0\10seg.dll
+C:\Users\user\10seg\obj\Debug\net8.0\refint\10seg.dll
+C:\Users\user\10seg\obj\Debug\net8.0\10seg.pdb
+C:\Users\user\10seg\obj\Debug\net8.0\10seg.genruntimeconfig.cache
+C:\Users\user\10seg\obj\Debug\net8.0\ref\10seg.dll
